@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "お返事ちょうだい",
+  "base_artist": "エイハブ",
+  "createdAt": "2026-03-02T04:16:32.621817Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お返事ちょうだい",
+      "artist": "エイハブ",
+      "has_synced": false,
+      "path": "select/pl_01_お返事ちょうだい_エイハブ.txt"
+    }
+  ]
+}
